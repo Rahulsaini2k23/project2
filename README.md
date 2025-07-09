@@ -17,7 +17,7 @@ The purpose of this project is to practice web development skills, especially la
 
 ----------------------------------------------
 
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is a "non-commercial clone of the Netflix homepage", created solely for "educational and learning purposes".  
 It is "not affiliated with, endorsed by, or sponsored by Netflix".  
