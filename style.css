@@ -285,3 +285,12 @@ footer .questions{
     flex-direction: column;
     gap: 23px;
 }
+
+
+.pages {
+  font-size: 20px;
+  text-align: center;
+  padding-top:30px ;
+
+ 
+}
